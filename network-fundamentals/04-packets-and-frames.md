@@ -5,9 +5,10 @@ A packet is a piece of data from Layer 3 (Network Layer) of the OSI model, conta
 TCP (Transmission Control Protocol): Ensures data is delivered reliably, in order, and error‑free.
 IP (Internet Protocol): Handles addressing and routing, making sure data goes to the right destination.
 Together, TCP/IP is the standard communication language of the internet.
+
 Real-Life Examples -
-WhatsApp Message: When you send “Hi” to a friend, TCP/IP ensures the message arrives correctly, even if your mobile signal drops for a second.
-YouTube Streaming: TCP/IP ensures video packets arrive in the right order, so you don’t see scrambled frames.
+#WhatsApp Message: When you send “Hi” to a friend, TCP/IP ensures the message arrives correctly, even if your mobile signal drops for a second.
+#YouTube Streaming: TCP/IP ensures video packets arrive in the right order, so you don’t see scrambled frames.
 
 ## The 3-Way Handshake -
 Before sending data, TCP does a “handshake” to confirm both sides are ready:
@@ -28,10 +29,8 @@ UDP (User Datagram Protocol): A lightweight way of sending data.
 It doesn’t check if the data arrived correctly or in order.
 IP (Internet Protocol): Same as before—it handles addressing and routing.
 So, UDP/IP = Fast delivery, but no guarantee.
+
 Real-Life Examples -
-Think of UDP like throwing paper flyers into a crowd:
-Some people get them, some may miss, but it’s fast and doesn’t wait for confirmation.
-Everyday Uses:
-YouTube Live / Twitch Streaming: Video packets are sent quickly. If one packet is lost, the stream continues (better to skip a frame than pause).
-Online Gaming (PUBG, Free Fire): Position updates are sent rapidly. If one update is lost, the next one fixes it—speed matters more than perfection.
-Voice Calls (WhatsApp, Zoom): If one word drops, the conversation continues. Better to keep talking than wait for missing data.
+#YouTube Live / Twitch Streaming: Video packets are sent quickly. If one packet is lost, the stream continues (better to skip a frame than pause).
+#Online Gaming (PUBG, Free Fire): Position updates are sent rapidly. If one update is lost, the next one fixes it—speed matters more than perfection.
+#Voice Calls (WhatsApp, Zoom): If one word drops, the conversation continues. Better to keep talking than wait for missing data.
