@@ -1,11 +1,11 @@
-##What is LAN?
+## What is LAN?
 A LAN is the arrangement of devices connected together, which is usually accessible within a building or a small local area.
 
-##What is Topology?
+## What is Topology?
 Topology in networking means the arrangement of devices and connections in a network, showing either how they are physically linked (cables, routers, switches) or how data flows logically between them. In simple terms, it’s the “map” of a network that explains who connects to whom and how communication happens.
 
-##To understand about hub,switch and router I have put it in simple term -
-#The Cricket Analogy
+## To understand about hub,switch and router I have put it in simple term -
+# The Cricket Analogy
 Imagine a cricket team with three players: a hub, a switch, and a router. All three are part of the same game, but each has a completely different job — one's a batsman, one's a bowler, one's a fielder. Networking devices work the same way: they're all part of one network, but each does something distinct.
 
 Hub — The One Who Shouts to Everyone
