@@ -1,4 +1,4 @@
-## What is the OSI Model?
+## What is the OSI Model? To make it easier to understand, I used an example of me texting Albert Einstein.
 
 The OSI Model breaks down network communication into seven layers. These layers are useful for identifying network issues.
 
