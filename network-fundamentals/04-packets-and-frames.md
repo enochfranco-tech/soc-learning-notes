@@ -7,8 +7,10 @@ IP (Internet Protocol): Handles addressing and routing, making sure data goes to
 Together, TCP/IP is the standard communication language of the internet.
 
 Real-Life Examples -
-#WhatsApp Message: When you send “Hi” to a friend, TCP/IP ensures the message arrives correctly, even if your mobile signal drops for a second.
-#YouTube Streaming: TCP/IP ensures video packets arrive in the right order, so you don’t see scrambled frames.
+
+WhatsApp Message: When you send “Hi” to a friend, TCP/IP ensures the message arrives correctly, even if your mobile signal drops for a second.
+
+YouTube Streaming: TCP/IP ensures video packets arrive in the right order, so you don’t see scrambled frames.
 
 ## The 3-Way Handshake -
 Before sending data, TCP does a “handshake” to confirm both sides are ready:
@@ -31,6 +33,9 @@ IP (Internet Protocol): Same as before—it handles addressing and routing.
 So, UDP/IP = Fast delivery, but no guarantee.
 
 Real-Life Examples -
-#YouTube Live / Twitch Streaming: Video packets are sent quickly. If one packet is lost, the stream continues (better to skip a frame than pause).
-#Online Gaming (PUBG, Free Fire): Position updates are sent rapidly. If one update is lost, the next one fixes it—speed matters more than perfection.
-#Voice Calls (WhatsApp, Zoom): If one word drops, the conversation continues. Better to keep talking than wait for missing data.
+
+YouTube Live / Twitch Streaming: Video packets are sent quickly. If one packet is lost, the stream continues (better to skip a frame than pause).
+
+Online Gaming (PUBG, Free Fire): Position updates are sent rapidly. If one update is lost, the next one fixes it—speed matters more than perfection.
+
+Voice Calls (WhatsApp, Zoom): If one word drops, the conversation continues. Better to keep talking than wait for missing data.
